@@ -64,7 +64,6 @@ a {
 
 .footer {
   display: flex;
-  width: 100vw;
   justify-content: space-between;
   background-color: rgb(238, 238, 238);
   flex: 0;
